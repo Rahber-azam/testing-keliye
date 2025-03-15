@@ -7,7 +7,7 @@ public class A {
         System.out.println(a);
     }
     public   int test(){
-        int a=10;
+        int a=12;
 
         return a;
 

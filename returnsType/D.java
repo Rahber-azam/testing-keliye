@@ -8,7 +8,7 @@ public class D {
     }
     public int test(){
         System.out.println("hello");
-        return 1001;
+        return 100;
 
     }
 }
