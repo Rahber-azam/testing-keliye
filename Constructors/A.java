@@ -6,7 +6,7 @@ package newkeyword.Constructors;
 public class A {
     A(){
         System.out.println(100);
-        System.out.println("hello");
+        System.out.println("Welcome");
     }
 
     public static void main(String[] args) {
